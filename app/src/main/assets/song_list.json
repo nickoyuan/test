@@ -1,0 +1,22 @@
+[
+   {
+      "id": "1",
+      "singer_name": "The Beatles",
+      "song_name": "Yesterday",
+      "song_image": "images/beatles_yesterday",
+      "song_url": "yesterday_song",
+      "song_music_url": "yesterday_minus",
+      "song_lyric_url": "yesterday_text" //LRC file
+   },
+   {
+   "id": "2",
+   "singer_name": "Eagles",
+   "song_name": "Hotel California ",
+   "song_image": "images/hotel_california",
+   "song_url": "hotel_california_song",
+   "song_music_url": "hotel_california_minus",
+   "song_lyric_url": "hotel_california_text" //LRC file
+   }
+
+
+]
